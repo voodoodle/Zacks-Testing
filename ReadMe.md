@@ -1,3 +1,5 @@
 Repository for ZAT Support Pages code.
 
 Should this be fully connected to our wordpress instance?
+
+Can I make a change now without exploding this crap?
